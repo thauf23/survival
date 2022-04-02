@@ -1,0 +1,76 @@
+@import "header_basic.css";
+
+@media (max-width: 480px){
+
+}
+@media (min-width: 768px){
+
+}
+@media (max-width: 772px){
+    header .navbar-frame .navbar a h1{
+        font-size: 18px;
+    }
+}
+@media (min-width: 1190px){
+
+}
+@media (min-width: 1200px){
+
+}
+
+
+/* @media (min-width: 768px){
+    
+    .margin-box{
+        width: 750px;
+    }
+
+    header{
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 0 15px;       
+        border: 1px solid red;
+    }
+    header .navbar{
+        display: flex;
+    }
+
+
+    header .navbar nav .navbar-change{
+        display: none;
+    }
+    header .navbar nav .navbar-toggle{
+        display: block;
+    }    
+} */
+
+/* @media (min-width: 992px){
+    .margin-box{
+        width: 970px;
+    }
+    header .navbar nav .navbar-toggle{
+        display: none;
+    }
+
+    header .navbar nav .navbar-change{
+        display: flex;
+    }
+} */
+
+/* @media (min-width: 1190px){
+    #container .visual-top .visual-text strong{
+        font-size: 20px;
+    }
+}
+
+
+@media (min-width: 1200px){
+    .margin-box{
+        width: 1170px;
+    }
+} */
+
+
+
+

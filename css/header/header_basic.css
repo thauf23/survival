@@ -1,5 +1,6 @@
 header{
     position: relative;
+    width: 100%;
 }
 
 header .navbar-frame{
@@ -48,13 +49,13 @@ header .navbar-frame .navbar nav .navbar-change{
     top: 48px;
     left: 0;
     background: #283747;
-}
-header .navbar-frame .navbar nav .navbar-change.off{
     display: none;
 }
 header .navbar-frame .navbar nav .navbar-change li{
+    position: relative;
     font-size: 15px;
-    padding: 10px 15px 20px;
+    line-height: 30px;
+    padding: 10px 15px;
 }
 
 header .navbar-frame .navbar nav .navbar-change li:last-of-type{
